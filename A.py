@@ -1,6 +1,7 @@
 temp = list(map(int, input().split()))
 reg = str(input())
-print("reg", reg)
+print("test-2", reg)
+
             
 if reg == 'heat':
     if temp[0] >= temp[1]:
